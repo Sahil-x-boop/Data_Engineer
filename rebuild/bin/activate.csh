@@ -13,13 +13,13 @@ setenv VIRTUAL_ENV /home/developer/Workspace_Projects/Data_Engineer/rebuild
 
 set _OLD_VIRTUAL_PATH="$PATH"
 setenv PATH "$VIRTUAL_ENV/"bin":$PATH"
-setenv VIRTUAL_ENV_PROMPT rebuild
 
 
 set _OLD_VIRTUAL_PROMPT="$prompt"
 
 if (! "$?VIRTUAL_ENV_DISABLE_PROMPT") then
-    set prompt = "("rebuild") $prompt:q"
+    set prompt = '(rebuild) '"$prompt"
+    setenv VIRTUAL_ENV_PROMPT '(rebuild) '
 endif
 
 alias pydoc python -m pydoc
