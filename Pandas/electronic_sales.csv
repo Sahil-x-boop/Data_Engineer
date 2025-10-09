@@ -1,0 +1,61 @@
+order_id,date,customer,region,product,units,unit_price,returned,notes
+1001,2025-01-03,Alice,North,Laptop,2,800,False,First-time customer
+1002,2025-01-04,Bob,East,Smartphone,1,500,False,Promo applied
+1003,2025-01-05,Charlie,West,Laptop,1,800,False,
+1004,2025-01-06,Diana,South,Headphones,5,50,False,Bulk order
+1005,2025-01-07,Eve,East,Smartphone,2,500,False,Gift wrap
+1006,2025-01-07,Frank,North,Laptop,3,820,False,
+1007,2025-01-08,Grace,West,Headphones,2,55,False,Fragile
+1008,2025-01-09,Heidi,South,Smartwatch,1,200,False,First-time customer
+1009,2025-01-09,Ivan,East,Laptop,1,800,False,Express shipping
+1010,2025-01-10,Judy,North,Tablet,2,300,True,Returned due to defect
+1011,2025-01-11,Mallory,West,Smartphone,3,510,False,New model
+1012,2025-01-12,Niaj,South,Laptop,1,820,False,
+1013,2025-01-13,Olivia,East,Headphones,4,55,False,Promo applied
+1014,2025-01-14,Peggy,North,Smartwatch,2,210,False,
+1015,2025-01-15,Quentin,West,Tablet,1,300,False,
+1016,2025-01-16,Rachel,South,Laptop,2,800,False,Corporate order
+1017,2025-01-16,Steve,East,Smartphone,1,500,False,
+1018,2025-01-17,Tina,North,Laptop,1,820,False,Gift wrap
+1019,2025-01-18,Uma,West,Headphones,3,50,True,Defective units
+1020,2025-01-18,Victor,South,Tablet,2,310,False,
+1021,2025-01-19,Wendy,East,Smartwatch,1,200,False,
+1022,2025-01-20,Xavier,North,Laptop,3,800,False,Promo applied
+1023,2025-01-20,Yvonne,West,Smartphone,2,500,False,
+1024,2025-01-21,Zach,South,Laptop,1,820,False,Express delivery
+1025,2025-01-21,Alice,East,Headphones,4,50,False,
+1026,2025-01-22,Bob,North,Smartwatch,1,200,False,
+1027,2025-01-23,Charlie,West,Laptop,2,800,False,
+1028,2025-01-23,Diana,South,Smartphone,3,510,False,Corporate client
+1029,2025-01-24,Eve,East,Tablet,1,300,False,
+1030,2025-01-25,Frank,North,Laptop,2,820,False,New stock
+1031,2025-01-25,Grace,West,Headphones,1,55,False,
+1032,2025-01-26,Heidi,South,Smartwatch,2,210,False,
+1033,2025-01-26,Ivan,East,Laptop,1,800,False,
+1034,2025-01-27,Judy,North,Smartphone,3,500,True,Returned
+1035,2025-01-28,Mallory,West,Laptop,2,820,False,
+1036,2025-01-28,Niaj,South,Tablet,1,310,False,Gift
+1037,2025-01-29,Olivia,East,Laptop,1,800,False,
+1038,2025-01-30,Peggy,North,Smartwatch,2,210,False,
+1039,2025-01-30,Quentin,West,Headphones,3,55,False,
+1040,2025-01-31,Rachel,South,Laptop,2,820,False,Promo
+1041,2025-02-01,Steve,East,Smartphone,1,500,False,
+1042,2025-02-01,Tina,North,Laptop,3,800,False,Corporate
+1043,2025-02-02,Uma,West,Tablet,1,300,False,
+1044,2025-02-03,Victor,South,Smartwatch,2,210,False,
+1045,2025-02-03,Wendy,East,Laptop,1,820,False,Express
+1046,2025-02-04,Xavier,North,Headphones,2,50,False,
+1047,2025-02-05,Yvonne,West,Smartphone,3,510,False,
+1048,2025-02-05,Zach,South,Laptop,1,800,False,
+1049,2025-02-06,Alice,East,Tablet,2,310,False,
+1050,2025-02-07,Bob,North,Laptop,1,820,False,
+1051,2025-02-07,Charlie,West,Smartwatch,2,200,False,
+1052,2025-02-08,Diana,South,Laptop,3,800,False,New order
+1053,2025-02-08,Eve,East,Headphones,1,55,False,
+1054,2025-02-09,Frank,North,Smartphone,2,500,False,
+1055,2025-02-10,Grace,West,Laptop,1,820,False,
+1056,2025-02-10,Heidi,South,Smartwatch,2,210,False,
+10557,Ivan,East,Laptop,1,800,False,
+10558,Judy,North,Tablet,3,300,False,
+10559,Mallory,West,Smartphone,2,510,False,
+10560,Niaj,South,Laptop,1,820,False,Final sale
