@@ -1,0 +1,61 @@
+order_id,date,customer,region,product,units,unit_price,returned,notes,revenue
+2001,2025-01-01,Diya,East,Headphones,5,38319.36,False,,191596.8
+2002,2025-01-02,Reyansh,East,Smartphone,7,12644.24,False,Promo Applied,88509.68
+2003,2025-01-03,Sai,North,Headphones,7,36682.6,False,Gift,256778.19999999998
+2004,2025-01-04,Sara,North,Smartphone,4,19021.37,False,Promo Applied,76085.48
+2005,2025-01-05,Aditi,East,Laptop,7,31982.99,False,Urgent,223880.93000000002
+2006,2025-01-06,Anika,South,Smartwatch,3,32042.96,True,Urgent,96128.88
+2007,2025-01-07,Sai,West,Smartwatch,6,27252.96,False,Gift,163517.76
+2008,2025-01-08,Ira,North,Smartwatch,2,5424.2,False,,10848.4
+2009,2025-01-09,Diya,West,Headphones,9,41929.82,False,Urgent,377368.38
+2010,2025-01-10,Shreya,South,Laptop,5,16718.22,False,Bulk Order,83591.1
+2011,2025-01-11,Meera,South,Headphones,6,10139.41,False,Urgent,60836.46
+2012,2025-01-12,Tara,South,Headphones,4,2997.98,False,Urgent,11991.92
+2013,2025-01-13,Aditi,North,Laptop,7,29953.75,False,,209676.25
+2014,2025-01-14,Aditi,South,Laptop,9,34200.65,False,Promo Applied,307805.85000000003
+2015,2025-01-15,Riddhi,North,Laptop,7,1812.8,False,Urgent,12689.6
+2016,2025-01-16,Ira,South,Laptop,1,26092.56,False,Gift,26092.56
+2017,2025-01-17,Vihaan,West,Smartwatch,1,12098.29,False,Promo Applied,12098.29
+2018,2025-01-18,Anika,West,Tablet,10,32613.47,False,Bulk Order,326521.23
+2019,2025-01-19,Riddhi,East,Tablet,9,9543.96,False,,85895.63999999998
+2020,2025-01-20,Aditya,West,Laptop,4,34855.95,False,Bulk Order,139423.8
+2021,2025-01-21,Krishna,East,Tablet,9,19950.03,True,Promo Applied,179550.27
+2022,2025-01-22,Ira,West,Tablet,3,46899.77,False,Promo Applied,140699.31
+2023,2025-01-23,Vivaan,North,Laptop,7,7738.53,False,Promo Applied,54169.71
+2024,2025-01-24,Riddhi,West,Tablet,6,17712.25,False,Bulk Order,106273.5
+2025,2025-01-25,Arjun,East,Headphones,8,6560.2,False,Promo Applied,52481.6
+2026,2025-01-26,Ishita,East,Smartphone,9,46309.99,False,Bulk Order,416789.91
+2027,2025-01-27,Ishaan,South,Smartphone,5,43989.63,False,Promo Applied,219948.15
+2028,2025-01-28,Vivaan,North,Laptop,1,13639.14,True,Gift,13639.14
+2029,2025-01-29,Suhana,West,Smartwatch,3,33339.22,False,Promo Applied,100017.66
+2030,2025-01-30,Pari,South,Laptop,8,41043.89,False,Bulk Order,328351.12
+2031,2025-01-31,Ira,West,Smartwatch,6,28204.84,False,Urgent,169229.04
+2032,2025-02-01,Aarav,West,Smartphone,8,26952.88,False,Promo Applied,215623.04
+2033,2025-02-02,Arjun,South,Laptop,12,92850.76,False,Urgent,1015656.84
+2034,2025-02-03,Shreya,South,Camera,4,5562.04,False,Gift,22248.16
+2035,2025-02-04,Krishna,South,Headphones,1,44963.57,False,,44963.57
+2036,2025-02-05,Sai,South,Tablet,1,45120.48,False,Gift,45120.48
+2037,2025-02-06,Arjun,South,Smartwatch,4,32021.97,False,Promo Applied,128087.88
+2038,2025-02-07,Yuvraj,West,Camera,7,17612.46,False,Urgent,123287.22
+2039,2025-02-08,Anvi,South,Tablet,2,18111.27,False,Urgent,36222.54
+2040,2025-02-09,Nishant,North,Tablet,3,36571.83,False,Bulk Order,109715.49
+2041,2025-02-10,Nishant,East,Laptop,1,44958.4,False,Urgent,44958.4
+2042,2025-02-11,Raghav,South,Tablet,5,44467.23,False,Bulk Order,222336.15000000002
+2043,2025-02-12,Saanvi,South,Headphones,1,39213.9,True,,39213.9
+2044,2025-02-13,Suhana,West,Camera,8,32459.55,False,Promo Applied,259676.4
+2045,2025-02-14,Pari,South,Tablet,1,5122.86,False,Bulk Order,5122.86
+2046,2025-02-15,Pari,South,Laptop,1,8919.81,False,,8919.81
+2047,2025-02-16,Dhruv,South,Headphones,2,45029.16,False,Urgent,90058.32
+2048,2025-02-17,Sara,West,Smartphone,2,30715.02,False,Urgent,61430.04
+2049,2025-02-18,Ishita,South,Camera,6,1450.66,False,,8703.960000000001
+2050,2025-02-19,Ishita,East,Tablet,7,5972.11,False,Urgent,41804.77
+2051,2025-02-20,Sara,West,Laptop,5,33511.59,False,,167557.94999999998
+2052,2025-02-21,Ishita,East,Smartphone,1,1248.02,False,Bulk Order,1248.02
+2053,2025-02-22,Meera,West,Smartphone,1,8879.59,False,Bulk Order,8879.59
+2054,2025-02-23,Arjun,South,Smartwatch,3,27887.96,False,,83663.88
+2055,2025-02-24,Tara,East,Headphones,2,34902.86,False,Bulk Order,69805.72
+2056,2025-02-25,Reyansh,West,Tablet,5,32946.1,False,Bulk Order,164730.5
+2057,2025-02-26,Suhana,North,Laptop,6,11989.2,False,Bulk Order,71935.20000000001
+2058,2025-02-27,Yuvraj,South,Smartwatch,7,35896.78,False,Gift,251277.46
+2059,2025-02-28,Aditya,West,Headphones,4,12625.21,False,Promo Applied,50500.84
+2060,2025-03-01,Ananya,North,Smartwatch,7,16944.59,False,Urgent,118612.13
