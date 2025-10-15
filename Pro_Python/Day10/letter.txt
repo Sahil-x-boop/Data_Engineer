@@ -1,0 +1,26 @@
+Overview
+
+File handling allows us to store data permanently outside the program (on disk).
+In Python, we use the built-in open() function to work with files.
+Files can be text files (.txt, .csv, .json) or binary files (.jpg, .exe, .mp4).
+
+  Why it exists:
+
+Programs need persistent storage (data should not disappear after program ends).
+
+Useful for reading configurations, saving logs, storing user data, processing large datasets.
+
+   Where it’s used:
+
+Storing user input permanently.
+
+Reading data from CSV/JSON/XML.
+
+Writing logs in applications.
+
+Machine Learning → loading datasets.
+
+System utilities → reading/writing configuration files.Use .strip() when reading lines (removes 
+)Use .strip() when reading lines (removes 
+)
+Use .strip() when reading lines (removes \n)

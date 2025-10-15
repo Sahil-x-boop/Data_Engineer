@@ -1,0 +1,47 @@
+2025-09-22 18:51:26,723 - INFO - Game started. Word length: 9
+2025-09-22 18:51:26,723 - DEBUG - Chosen word (hidden from player): generator
+2025-09-22 18:51:26,723 - DEBUG - Current state: _ _ _ _ _ _ _ _ _
+2025-09-22 18:51:28,298 - INFO - User guessed: g
+2025-09-22 18:51:28,298 - INFO - Correct guess: g
+2025-09-22 18:51:28,299 - DEBUG - Attempts left: 5
+2025-09-22 18:51:28,299 - DEBUG - Current state: g _ _ _ _ _ _ _ _
+2025-09-22 18:51:30,299 - INFO - User guessed: G
+2025-09-22 18:51:30,300 - WARNING - Wrong guess: G. Attempts left: 4
+2025-09-22 18:51:30,300 - DEBUG - Attempts left: 4
+2025-09-22 18:51:30,300 - DEBUG - Current state: g _ _ _ _ _ _ _ _
+2025-09-22 18:51:31,624 - INFO - User guessed: g
+2025-09-22 18:51:31,624 - INFO - Correct guess: g
+2025-09-22 18:51:31,624 - DEBUG - Attempts left: 4
+2025-09-22 18:51:31,624 - DEBUG - Current state: g _ _ _ _ _ _ _ _
+2025-09-22 18:51:34,152 - INFO - User guessed: e
+2025-09-22 18:51:34,152 - INFO - Correct guess: e
+2025-09-22 18:51:34,153 - DEBUG - Attempts left: 4
+2025-09-22 18:51:34,153 - DEBUG - Current state: g e _ _ _ _ _ _ _
+2025-09-22 18:51:34,999 - INFO - User guessed: a
+2025-09-22 18:51:35,000 - INFO - Correct guess: a
+2025-09-22 18:51:35,000 - DEBUG - Attempts left: 4
+2025-09-22 18:51:35,000 - DEBUG - Current state: g e _ _ _ a _ _ _
+2025-09-22 18:51:36,167 - INFO - User guessed: r
+2025-09-22 18:51:36,168 - INFO - Correct guess: r
+2025-09-22 18:51:36,168 - DEBUG - Attempts left: 4
+2025-09-22 18:51:36,169 - DEBUG - Current state: g e _ _ r a _ _ _
+2025-09-22 18:51:37,977 - INFO - User guessed: n
+2025-09-22 18:51:37,977 - INFO - Correct guess: n
+2025-09-22 18:51:37,978 - DEBUG - Attempts left: 4
+2025-09-22 18:51:37,978 - DEBUG - Current state: g e n _ r a _ _ _
+2025-09-22 18:51:38,422 - INFO - User guessed: e
+2025-09-22 18:51:38,422 - INFO - Correct guess: e
+2025-09-22 18:51:38,422 - DEBUG - Attempts left: 4
+2025-09-22 18:51:38,423 - DEBUG - Current state: g e n e r a _ _ _
+2025-09-22 18:51:39,400 - INFO - User guessed: t
+2025-09-22 18:51:39,400 - INFO - Correct guess: t
+2025-09-22 18:51:39,400 - DEBUG - Attempts left: 4
+2025-09-22 18:51:39,400 - DEBUG - Current state: g e n e r a t _ _
+2025-09-22 18:51:39,865 - INFO - User guessed: o
+2025-09-22 18:51:39,866 - INFO - Correct guess: o
+2025-09-22 18:51:39,867 - DEBUG - Attempts left: 4
+2025-09-22 18:51:39,867 - DEBUG - Current state: g e n e r a t o _
+2025-09-22 18:51:40,922 - INFO - User guessed: r
+2025-09-22 18:51:40,923 - INFO - Correct guess: r
+2025-09-22 18:51:40,923 - DEBUG - Attempts left: 4
+2025-09-22 18:51:40,923 - INFO - Player won the game!

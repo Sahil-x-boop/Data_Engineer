@@ -1,0 +1,10 @@
+{
+    "name": "Shubham",
+    "age": 24,
+    "skills": [
+        "Linux",
+        "PySpark",
+        "MySQL"
+    ],
+    "company": "Bestpeers"
+}

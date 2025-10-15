@@ -1,0 +1,60 @@
+Task: --f=/run/user/1000/jupyter/runtime/kernel-v3b0d44459ac397eb3642a3200edc359656a189f02.json
+Created On: 2025-09-22 16:55:11
+Deadline: 2025-09-24 16:55:11
+Task Name Length: 89
+Square Root of Length: 9.43
+-----------------------------
+Task: --f=/run/user/1000/jupyter/runtime/kernel-v3b0d44459ac397eb3642a3200edc359656a189f02.json
+Created On: 2025-09-22 16:55:22
+Deadline: 2025-09-24 16:55:22
+Task Name Length: 89
+Square Root of Length: 9.43
+-----------------------------
+Task: --f=/run/user/1000/jupyter/runtime/kernel-v3b0d44459ac397eb3642a3200edc359656a189f02.json
+Created On: 2025-09-22 17:00:04
+Deadline: 2025-09-24 17:00:04
+Task Name Length: 89
+Square Root of Length: 9.43
+-----------------------------
+Task: --f=/run/user/1000/jupyter/runtime/kernel-v3b0d44459ac397eb3642a3200edc359656a189f02.json
+Created On: 2025-09-22 17:00:21
+Deadline: 2025-09-24 17:00:21
+Task Name Length: 89
+Square Root of Length: 9.43
+-----------------------------
+Task: --f=/run/user/1000/jupyter/runtime/kernel-v3b0d44459ac397eb3642a3200edc359656a189f02.json
+Created On: 2025-09-22 17:00:33
+Deadline: 2025-09-24 17:00:33
+Task Name Length: 89
+Square Root of Length: 9.43
+-----------------------------
+Task: --f=/run/user/1000/jupyter/runtime/kernel-v3b0d44459ac397eb3642a3200edc359656a189f02.json
+Created On: 2025-09-22 17:00:37
+Deadline: 2025-09-24 17:00:37
+Task Name Length: 89
+Square Root of Length: 9.43
+-----------------------------
+Task: --f=/run/user/1000/jupyter/runtime/kernel-v3b0d44459ac397eb3642a3200edc359656a189f02.json
+Created On: 2025-09-22 17:08:38
+Deadline: 2025-09-24 17:08:38
+Task Name Length: 89
+Square Root of Length: 9.43
+-----------------------------
+Task: --f=/run/user/1000/jupyter/runtime/kernel-v3b0d44459ac397eb3642a3200edc359656a189f02.json
+Created On: 2025-09-22 17:08:43
+Deadline: 2025-09-24 17:08:43
+Task Name Length: 89
+Square Root of Length: 9.43
+-----------------------------
+Task: --f=/run/user/1000/jupyter/runtime/kernel-v3b0d44459ac397eb3642a3200edc359656a189f02.json
+Created On: 2025-09-22 17:08:44
+Deadline: 2025-09-24 17:08:44
+Task Name Length: 89
+Square Root of Length: 9.43
+-----------------------------
+Task: --f=/run/user/1000/jupyter/runtime/kernel-v33d3e8514e8b00254e4903e2fffee867696bd7c84.json
+Created On: 2025-09-23 15:30:51
+Deadline: 2025-09-25 15:30:51
+Task Name Length: 89
+Square Root of Length: 9.43
+-----------------------------

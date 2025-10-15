@@ -1,0 +1,2 @@
+Best practices: avoid overwriting and iterate large files
+Use .strip() when reading lines (removes \n)

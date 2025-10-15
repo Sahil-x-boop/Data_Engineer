@@ -1,0 +1,4 @@
+2025-09-22 18:36:19,829 - INFO  root - Checking if 44 is prime
+2025-09-22 18:36:19,830 - DEBUG  root - Divisible by 2
+2025-09-22 18:36:19,830 - INFO  root - Checking if 1 is prime
+2025-09-22 18:36:19,830 - WARNING  root - Number less than or equal to 1, not prime

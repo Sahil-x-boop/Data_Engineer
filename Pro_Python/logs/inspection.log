@@ -1,0 +1,13 @@
+2025-09-23 13:20:26 | DEBUG | Pro-Python | fibonacci:5 - Get range of Fibonacci Series upto 0
+2025-09-23 13:20:26 | INFO | Pro-Python | fibonacci:12 - a = 0 and b = 1 and their sum = 1
+2025-09-23 13:20:26 | DEBUG | Pro-Python | fibonacci:5 - Get range of Fibonacci Series upto 7
+2025-09-23 13:20:26 | INFO | Pro-Python | fibonacci:12 - a = 0 and b = 1 and their sum = 1
+2025-09-23 13:20:26 | INFO | Pro-Python | fibonacci:12 - a = 1 and b = 1 and their sum = 2
+2025-09-23 13:20:26 | INFO | Pro-Python | fibonacci:12 - a = 1 and b = 2 and their sum = 3
+2025-09-23 13:20:26 | INFO | Pro-Python | fibonacci:12 - a = 2 and b = 3 and their sum = 5
+2025-09-23 13:20:26 | INFO | Pro-Python | fibonacci:12 - a = 3 and b = 5 and their sum = 8
+2025-09-23 13:20:26 | INFO | Pro-Python | fibonacci:12 - a = 5 and b = 8 and their sum = 13
+2025-09-23 13:20:26 | INFO | Pro-Python | fibonacci:12 - a = 8 and b = 13 and their sum = 21
+2025-09-23 13:20:26 | INFO | Pro-Python | fibonacci:12 - a = 13 and b = 21 and their sum = 34
+2025-09-23 13:20:26 | DEBUG | Pro-Python | fibonacci:5 - Get range of Fibonacci Series upto -4
+2025-09-23 13:20:26 | WARNING | Pro-Python | fibonacci:7 - Enter Positive Number!
