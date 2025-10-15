@@ -2,3 +2,4 @@ rebuild/
 *.pyc
 __pycache__/
 
+get-pip.py
