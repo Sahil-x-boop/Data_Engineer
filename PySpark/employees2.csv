@@ -1,0 +1,11 @@
+employee_id,name,department,salary,age,country
+1,Alice,HR,50000,25,India
+2,Bob,IT,60000,32,USA
+3,Charlie,IT,65000,29,India
+4,David,Sales,70000,42,Australia
+5,Eva,Sales,72000,36,India
+6,Frank,IT,80000,30,USA
+7,Grace,Finance,90000,40,UK
+8,Helen,HR,52000,27,India
+9,Isaac,Sales,62000,33,Australia
+10,John,Finance,75000,35,UK
