@@ -1,0 +1,17 @@
+product_id,product_name,category,supplier_name,origin_country,unit_cost,rating,launch_date,is_active
+P001,Whey Protein,Protein,WellnessPro,India,20.38,4.18,2021-05-28,Yes
+P002,Vitamin C,Vitamin,NutriMax Labs,India,22.1,4.82,2021-06-08,Yes
+P003,Fish Oil,Omega,HealthCore Inc.,India,22.48,3.5,2020-02-21,Yes
+P004,Multivitamin,Vitamin,VitaPlus Nutrition,Australia,8.31,3.97,2019-10-08,No
+P005,Pre-Workout,Performance,VitaPlus Nutrition,Australia,11.78,4.65,2018-07-04,No
+P006,BCAA,Amino Acid,NutriMax Labs,India,22.61,4.29,2021-09-26,No
+P007,Creatine,Performance,PureEssence Labs,UK,18.64,4.8,2020-01-27,No
+P008,Zinc,Mineral,BioVita Corp.,Germany,5.1,4.23,2020-06-12,No
+P009,Collagen Peptides,Protein,HealthCore Inc.,Canada,10.86,4.35,2018-04-16,No
+P010,Magnesium,Mineral,VitaPlus Nutrition,Germany,6.67,3.53,2020-01-04,No
+P011,Ashwagandha,Herbal,VitaPlus Nutrition,Australia,5.47,4.25,2019-12-31,Yes
+P012,Melatonin,Sleep Aid,VitaPlus Nutrition,Germany,18.17,3.87,2018-10-09,Yes
+P013,Biotin,Vitamin,FitFuel Ltd.,India,6.17,4.33,2021-10-25,Yes
+P014,Green Tea Extract,Fat Burner,NutriMax Labs,Germany,16.61,4.53,2018-06-21,Yes
+P015,Iron Supplement,Mineral,HealthCore Inc.,Australia,18.27,4.74,2018-07-28,Yes
+P016,Electrolyte Powder,Hydration,PureEssence Labs,Canada,9.18,4.98,2020-04-24,Yes
